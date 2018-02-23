@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 /*DEL EJEMPLO CON INPUT*/
+//entre soy Ingrid :D
 void strat_ncurses(bool useRaw,bool usenoECho);
 void printMenu(WINDOW * menu,string choices[],int size,int highlight);
 int main(int argc,char** argv){
